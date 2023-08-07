@@ -1,0 +1,3 @@
+paramiko
+twine
+my-ssh-library==0.1
