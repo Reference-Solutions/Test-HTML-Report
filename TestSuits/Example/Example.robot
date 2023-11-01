@@ -1,8 +1,4 @@
 *** Settings ***
-Library  ..\\..\\TestKeywords\\Example\\MyLibrary.py
-
-Test Setup      Connect					
-Test Teardown   Disconnect
 
 Documentation       We are validating the HiL System Setup is up and running by executing the commands on a remote machine
 ...                 and getting its output.
